@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid black ;
+    /* border: 1px solid black ; */
 }
 
 body{
@@ -53,4 +53,8 @@ img{
 
 .next{
     right: 160px;
+}
+
+.active{
+    background-color: rgb(190, 31, 31);
 }
